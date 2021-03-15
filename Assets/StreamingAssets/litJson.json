@@ -1,0 +1,27 @@
+
+[
+    {
+        "Type" : 0,
+        "_aDouble" : 12.17
+    },
+    {
+        "Type" : 0,
+        "_aDouble" : 2.3333
+    },
+    {
+        "Type" : 1,
+        "_bString" : "你好"
+    },
+    {
+        "Type" : 1,
+        "_bString" : "hello"
+    },
+    {
+        "Type" : 2,
+        "_cBool" : false
+    },
+    {
+        "Type" : 2,
+        "_cBool" : true
+    }
+]

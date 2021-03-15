@@ -1,0 +1,11 @@
+*.suo
+*.lock
+*.ide
+*.csproj
+*.sln
+/Library/
+/obj/
+/Temp
+/.vs
+/Packages
+/.idea
